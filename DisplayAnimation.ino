@@ -11,6 +11,7 @@
 // u8g documentation: https://github.com/olikraus/u8glib/wiki/userreference#getstrwidth
 // Photopea (online Photoshop-like tool): https://www.photopea.com/
 // Wokwi starting project: https://wokwi.com/arduino/projects/300867986768527882
+//                         https://wokwi.com/projects/326362810063782482
 // Transparent display buy: https://a.aliexpress.com/_mKGmhKg
 // Arduino uno: http://store.arduino.cc/products/arduino-uno-rev3
 // Arduino breadboard prototyping shield: https://www.adafruit.com/product/2077
